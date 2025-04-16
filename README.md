@@ -83,7 +83,9 @@ This project can be used in households, farms, and gardens to help **conserve wa
 
 ## 📸 Demo
 https://wokwi.com/projects/428413614080149505
-(https://github.com/user-attachments/assets/5be58ff9-c815-4c2a-9fd0-f5dc692e7ef2)
+
+![image](https://github.com/user-attachments/assets/97a4b75f-76de-4625-975d-36177471fd46)
+
 
 
 ---
